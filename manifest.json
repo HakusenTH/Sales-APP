@@ -1,0 +1,16 @@
+{
+  "name": "ระบบบันทึกการขาย",
+  "short_name": "SaleApp",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F4F9F9",
+  "theme_color": "#87BBA2",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
